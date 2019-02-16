@@ -1,0 +1,1 @@
+https://s3.console.aws.amazon.com/s3/buckets/sp20161665etc/?region=us-west-2&tab=overview
